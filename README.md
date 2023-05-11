@@ -1,2 +1,2 @@
 # Classification_date_fruits
-Here I am predict different type of date fruits classification
+In this project I have classicified the different types of date fruits using machine learning algorithms.
